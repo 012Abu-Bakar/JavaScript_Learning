@@ -1,3 +1,7 @@
+/ ** A beginner-friendly JavaScript learning repo for developers transitioning from Java or Python, moving from Selenium to Playwright, or brushing up on core concepts.
+
+*/
+
 // *************************************VARIABLES***************************************************************
 
 
